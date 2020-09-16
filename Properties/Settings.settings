@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="COVID_19Calc.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Pop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">51257</Value>
+    </Setting>
+    <Setting Name="OpenFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JoplinCOVIDData</Value>
+    </Setting>
+    <Setting Name="Date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">09/10/2020 22:56:04</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
