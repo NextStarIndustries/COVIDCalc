@@ -1,0 +1,12 @@
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\bin\Debug\COVID-19Calc.exe.config
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\bin\Debug\COVID-19Calc.exe
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\bin\Debug\COVID-19Calc.pdb
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID_19Calc.Properties.Resources.resources
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID-19Calc.csproj.GenerateResource.cache
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID-19Calc.exe
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID-19Calc.pdb
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID-19Calc.csproj.CoreCompileInputs.cache
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID-19Calc.csprojAssemblyReference.cache
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID_19Calc.Form1.resources
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID_19Calc.Form2.resources
+C:\Users\Brandy\Desktop\Projects\COVID-19Calc\obj\Debug\COVID_19Calc.Form3.resources
