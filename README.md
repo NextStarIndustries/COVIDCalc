@@ -6,7 +6,7 @@ MoDHSS has once again changed their dashboard causing a lot of confusion to obta
 
 # NOTE: MoDHSS data for Joplin, MO. doesn't match the JHD released data.  
 
-# *Sources for csv data sets Joplin, Missouri, and USA csv files created by Vernon Perdew, others created by OWID:*  
+# Sources for csv data sets Joplin, Missouri, and USA csv files created by Vernon Perdew, others created by OWID:  
 https://www.joplinmo.org/1072/Joplins-CoronavirusCOVID-19-Response  
 https://showmestrong.mo.gov/data/public-health/#statewide  
 https://ourworldindata.org/coronavirus-data  
