@@ -1,4 +1,4 @@
-# COVIDCalc  
+# COVIDCalc (wip)  
 A calculator plus csv reader/writer I've made to record and track the COVID-19 outbreak for Missouri, Joplin,MO, and the World.  
 
 JHD(Joplin Health Department) has changed their dashboard(again) and will now update Mon. thru Fri.  
